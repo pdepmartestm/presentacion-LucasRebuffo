@@ -23,7 +23,7 @@ En síntesis la verdad estoy seguro de la cursada va ser genial (esta materia ti
 
 AH!! Se me olvidaba la foto.
 
-<img src="C:\Users\Lucas\OneDrive\Escritorio\20190213_190142.jpg" alt="20190213_190142" style="zoom:33%;" />
+<img src="https://raw.githubusercontent.com/pdepmartestm/presentacion-LucasRebuffo/master/20190213_190142.jpg" style="zoom:10%;" />
 
 __ESOS PELOOS !!__
 
